@@ -6,7 +6,7 @@
 
 Actuellement postdoctorant à l'Université de Lille, membre de l'équipe [RAPSODI (Inria)](https://team.inria.fr/rapsodi/fr/) au sein du [laboratoire Paul Painlevé](https://math.univ-lille.fr/), dans le cadre d'une colaboration avec [Maxime Herda](http://chercheurs.lille.inria.fr/herda/), et financé par un contrat [CPER du CNRS](https://www.hauts-de-france.cnrs.fr/fr/une-excellence-de-la-recherche-academique), mes recherches concernent principalement l'analyse asymptotique d'équations cinétiques décrivant des gaz ou des plasmas.
 
-J'ai intégré en 2014 la double licence Mathématiques-Informatique de l'Université Paris-Diderot, puis, en 2017, son master de Mathématiques fondamentales. J'ai ensuite commencé mon doctorat en 2019 sous la direction d'[Isabelle Gallagher](https://www.math.ens.fr/~gallagher/) et [Isabelle Tristani](http://tristani.perso.math.cnrs.fr), et soutenu ma thèse le 15 décembre 2022 [dont vous pouvez trouver le manuscrit ici](https://u-paris.fr/theses/detail-dune-these/?id_these=5448). J'ai fait mon premier postdoctorat de 2022 à 2023 sous la direction de [Bertrand Lods](https://sites.google.com/site/bertrandlods/) à l'Université de Turin.
+J'ai intégré en 2014 la double licence Mathématiques-Informatique de l'Université Paris-Diderot, puis, en 2017, son master de Mathématiques fondamentales. J'ai ensuite commencé mon doctorat en 2019 sous la direction d'[Isabelle Gallagher](https://www.math.ens.fr/~gallagher/) et [Isabelle Tristani](http://tristani.perso.math.cnrs.fr), et soutenu ma thèse le 15 décembre 2022 [dont vous pouvez trouver le manuscrit ici](These.pdf). J'ai fait mon premier postdoctorat de 2022 à 2023 sous la direction de [Bertrand Lods](https://sites.google.com/site/bertrandlods/) à l'Université de Turin.
 
 Vous pouvez me contacter à l'adresse ```pierre.gervais [ at ] inria.fr```.
 
@@ -63,4 +63,4 @@ Vous pouvez me contacter à l'adresse ```pierre.gervais [ at ] inria.fr```.
 - 2021 - Algèbre et analyse élémentaire 2
 - 2019 - Interactions Maths-Physique
 - 2020 - Colles
-- 2019 - Analyse fonctionnelle I
+- 2019 - Analyse fonctionnelle I [Notes](AF_I.pdf)
