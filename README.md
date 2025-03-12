@@ -10,7 +10,7 @@ J'ai intégré en 2014 la double licence Mathématiques-Informatique de l'Univer
 
 Vous pouvez me contacter à l'adresse ```pierre.gervais [ at ] inria.fr```.
 
-# Travaux de recherche
+## Travaux de recherche
 
 ### Prépublications
 - Hypoellipticity and averaging lemmas with a confining potential [(HAL-04823671)](https://hal.science/hal-04823671)
@@ -53,7 +53,7 @@ Vous pouvez me contacter à l'adresse ```pierre.gervais [ at ] inria.fr```.
 - 14/10/21 — ANR Entropie, Flots et Inégalités (EFI) : From Boltzmann to Navier-Stokes with general initial data.
 - 6/10/21 — Rentrée du DMA : Problèmes de limites hydrodynamiques.
 
-# Enseignement
+## Enseignement
 - 2025 : Équations différentielles (TD et TP python)
 - 2023 — Intégrale et séries de Fourier
 - 2022 - Algèbre et analyse élémentaire 2
