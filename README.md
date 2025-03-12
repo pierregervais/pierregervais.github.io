@@ -15,7 +15,7 @@ Vous pouvez me contacter à l'adresse ```pierre.gervais [ at ] inria.fr```.
 ### Prépublications
 - Hypoellipticity and averaging lemmas with a confining potential [(HAL-04823671)](https://hal.science/hal-04823671)
 - Well-posedness and long-time behavior for self-consistent Vlasov-Fokker-Planck equations with general potentials (avec Maxime Herda) [(ArXiv:2408.16468)](http://arxiv.org/abs/2408.16468)
-- Conditional integrability and stability for the homogeneous Boltzmann equation with very soft potentials (avec Ricardo Alonso et Bertrand Lods) [ArXiv:2403.15613](https://arxiv.org/abs/2403.15613)
+- Conditional integrability and stability for the homogeneous Boltzmann equation with very soft potentials (avec Ricardo Alonso et Bertrand Lods) [(ArXiv:2403.15613)](https://arxiv.org/abs/2403.15613)
 
 ### Publications
 - Hydrodynamic limits for conservative kinetic equations: a spectral and unified approach in the presence of a spectral gap (avec Bertrand Lods)
