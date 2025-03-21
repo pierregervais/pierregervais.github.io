@@ -20,7 +20,7 @@ Vous pouvez me contacter à l'adresse ```pierre.gervais [ at ] inria.fr```.
 ### Publications
 - Hydrodynamic limits for conservative kinetic equations: a spectral and unified approach in the presence of a spectral gap (avec Bertrand Lods)
   
-  [_Annales Henri Lebesgue_](https://ahl.centre-mersenne.org/item/AHL_2024__7__969_0/) **7** (2024),  p. 968-1098.  [(ArXiv:2304.11698)](https://arxiv.org/abs/2304.11698)
+  [_Annales Henri Lebesgue_](https://ahl.centre-mersenne.org/item/AHL_2024__7__969_0/) **7** (2024),  p. 968-1098 (130 pages).  [(ArXiv:2304.11698)](https://arxiv.org/abs/2304.11698)
 
 - Non-cutoff Boltzmann equation with soft potentials in the whole space (avec Kleber Carrapatoso)
 
